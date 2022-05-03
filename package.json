@@ -1,0 +1,32 @@
+{
+  "name": "real_estate",
+  "version": "1.0.0",
+  "description": "real state website design",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"sass --watch scss:assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaibAbderrahmaN/real-estate.git"
+  },
+  "keywords": [
+    "botstrap",
+    "sass",
+    "javascript"
+  ],
+  "author": "abderrahman saib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaibAbderrahmaN/real-estate/issues"
+  },
+  "homepage": "https://github.com/SaibAbderrahmaN/real-estate#readme",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.1.3"
+  }
+}
